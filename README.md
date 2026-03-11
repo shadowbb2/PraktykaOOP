@@ -15,6 +15,9 @@
 
 <img width="318" height="175" alt="image" src="https://github.com/user-attachments/assets/cdc3e127-1dc8-4ea0-8a67-db1e596e59ec" />
 
+Завдання 4 - Поліморфізм (05.03.26р)
+
+<img width="388" height="670" alt="image" src="https://github.com/user-attachments/assets/95f493cd-4bec-46d0-b914-652a71ea9fc3" />
 
 Завдання 5 - Обробка колекцій (06.03.26р)
 
