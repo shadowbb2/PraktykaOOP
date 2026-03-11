@@ -22,3 +22,7 @@
 Завдання 5 - Обробка колекцій (06.03.26р)
 
 <img width="856" height="613" alt="image" src="https://github.com/user-attachments/assets/6026ebd3-7ab0-49f0-9338-03f22026b8d7" />
+
+Завдання 6 - Паралельне виконання.(09.03.26р.)
+
+<img width="464" height="748" alt="image" src="https://github.com/user-attachments/assets/b64fa3da-5acf-46ab-8558-50fcf119c72a" />
