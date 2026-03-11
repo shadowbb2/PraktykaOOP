@@ -11,4 +11,6 @@
 
 <img width="308" height="270" alt="image" src="https://github.com/user-attachments/assets/511206cf-d421-406e-ba67-d41e25636846" />
 
+Завдання 3 - Спадкування (04.03.26р).rar
+
 
