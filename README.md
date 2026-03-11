@@ -9,6 +9,7 @@
 
 <img width="390" height="96" alt="image" src="https://github.com/user-attachments/assets/b0a9f905-3440-42e5-8c1e-ec91b646c021" />
 
+
 <img width="352" height="165" alt="image" src="https://github.com/user-attachments/assets/da3a50c8-4664-4318-bf3d-eec2e8782a91" />
 
 Завдання 3 - Спадкування (04.03.26р)
